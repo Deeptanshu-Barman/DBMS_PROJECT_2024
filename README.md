@@ -4,6 +4,8 @@ Made a working Web application using Streamlit. Note: Used Older Version Of Stre
 Used text files instead for basic information storage and retrieval.
 
 ----------Run-----------
+
+
 Json configuration to launch application aldready there.
 Use pip install streamlit
 streamlit run main.py
